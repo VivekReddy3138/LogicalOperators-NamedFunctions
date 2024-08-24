@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-color:lightgreen;
+  display: inline-block;
+  margin:30px;
+}
+
+form div{
+   margin: 20px;
+}
+
+label{
+  width: 120px;
+  display: inline-block;
+}
+
+span{
+  display: inline-block;
+  width: 70px;
+}
